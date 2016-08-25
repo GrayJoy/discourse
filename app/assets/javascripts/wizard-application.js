@@ -4,3 +4,4 @@
 //= require_tree ./wizard/templates
 //= require_tree ./wizard/routes
 //= require_tree ./wizard/controllers
+//= require_tree ./wizard/lib
